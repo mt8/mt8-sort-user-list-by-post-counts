@@ -1,0 +1,35 @@
+# Copyright (C) 2015 Mt8 Sort User List By Post Counts
+# This file is distributed under the same license as the Mt8 Sort User List By Post Counts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mt8 Sort User List By Post Counts 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/mt8-sort-user-list-"
+"by-post-counts\n"
+"POT-Creation-Date: 2015-08-25 10:23:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-25 19:27+0900\n"
+"Last-Translator: mt8 <info@mt8.biz>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Mt8 Sort User List By Post Counts"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mt8/mt8-sort-user-list-by-post-counts"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sort user-list by post counts."
+msgstr "ユーザーリストを投稿数で並び替えできます。"
+
+#. Author of the plugin/theme
+msgid "mt8.biz"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mt8.biz"
+msgstr ""

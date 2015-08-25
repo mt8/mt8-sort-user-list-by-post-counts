@@ -1,0 +1,36 @@
+=== Mt8 Sort User List By Post Counts ===
+Contributors: mt8.biz
+Donate link: http://mt8.biz
+Tags: admin,user,user list,sort
+Requires at least: 4.2
+Tested up to: 4.3
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Sort user-list by post counts.
+
+== Description ==
+
+Mt8 Sort User List By Post Countsは、ユーザーリストを投稿数で並び替えできるようにするプラグインです。
+
+
+== Installation ==
+
+1. Upload `plugin-name.zip` to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+1. Latest information
+
+== Frequently Asked Questions ==
+
+== Upgrade Notice ==
+
+= 1.0 =
+
+== Changelog ==
+
+= 1.0 =
+* 初版リリース
